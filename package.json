@@ -1,0 +1,41 @@
+{
+  "name": "Hot-HTMLEditor",
+  "version": "1.0.0",
+  "description": "Just a Html Editor",
+  "dependencies": {
+    "babel-polyfill": "^6.9.1",
+    "graceful-fs": "^4.1.11",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-react-transform": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.18.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-es2015-classes": "^6.18.0",
+    "babel-plugin-transform-runtime": "^6.7.5",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "express": "^4.14.0",
+    "css-loader": "0.23.1",
+    "style-loader": "0.13.1",
+    "html-loader": "~0.4.4",
+    "webpack": "^1.13.1",
+    "webpack-dashboard": "^0.1.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-server": "^1.16.1",
+    "webpack-hot-middleware": "^2.10.0",
+    "webpack-merge": "^1.0.1",
+    "webpack-validator": "^2.2.9",
+    "html-webpack-plugin": "^2.24.1"
+  },
+  "scripts": {
+    "start": "NODE_ENV=development node server.js"
+  },
+  "author": "MaYi(mayi@wiredcraft.com)"
+}

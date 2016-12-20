@@ -6,7 +6,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = validate({
 
     resolve: {
-        extensions: ['.json', '.js']
+        extensions: ['', '.json', '.js']
     },
 
     output: {

@@ -1,4 +1,8 @@
-# Hot-Reloading-Server for HTML
+# Hot-Reloading for HTML&CSS
+
+A tool or a helper which could provide hot reloading when you edit the HTML+CSS files.
+
+##Usage##
 
 Clone the code and enter to the project folder
 

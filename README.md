@@ -1,4 +1,4 @@
-# Hot-Reloading for HTML&CSS
+# Hot Module Replacement for HTML&CSS
 
 A tool or a helper which could provide hot reloading when you edit the HTML+CSS files.
 
